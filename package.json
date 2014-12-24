@@ -14,7 +14,7 @@
 		   ]
 		},
 		{
-			"name" 			: "Default",
+			"name" 			: "DefaultTest",
 			"file_name"		: "ApexClassWithoutSharing.cls",
 			"description" 	: "Adashko test for an Apex Class",
 			"author" 		: "Adashko",
